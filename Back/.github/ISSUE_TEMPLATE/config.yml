@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/your-username/blinders/discussions
+    about: Please ask and answer questions here.
+  - name: Accessibility Support
+    url: https://github.com/your-username/blinders/discussions/categories/accessibility
+    about: Get help with accessibility features and testing.
+  - name: Technical Support
+    url: https://github.com/your-username/blinders/discussions/categories/technical
+    about: Get help with technical issues and development.
+  - name: General Questions
+    url: https://github.com/your-username/blinders/discussions/categories/general
+    about: Ask general questions about the project.

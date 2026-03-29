@@ -1,0 +1,5230 @@
+{
+    "beginner": [
+        {
+            "question": "Lesson 1: Verb To Be. Questions about am, is, are.",
+            "options": {},
+            "answer": "",
+            "is_lesson_intro": true,
+            "lesson_name": "Verb To Be"
+        },
+        {
+            "question": "I ___ a student.",
+            "options": {
+                "a": "is",
+                "b": "am",
+                "c": "are"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She ___ my friend.",
+            "options": {
+                "a": "am",
+                "b": "is",
+                "c": "are"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "They ___ happy today.",
+            "options": {
+                "a": "is",
+                "b": "am",
+                "c": "are"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "He ___ from Egypt.",
+            "options": {
+                "a": "are",
+                "b": "is",
+                "c": "am"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "We ___ ready now.",
+            "options": {
+                "a": "are",
+                "b": "is",
+                "c": "am"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "It ___ a big city.",
+            "options": {
+                "a": "are",
+                "b": "am",
+                "c": "is"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "I ___ not tired.",
+            "options": {
+                "a": "is",
+                "b": "am",
+                "c": "are"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She ___ not here.",
+            "options": {
+                "a": "am",
+                "b": "are",
+                "c": "is"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "___ you a teacher?",
+            "options": {
+                "a": "Am",
+                "b": "Is",
+                "c": "Are"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "___ they students?",
+            "options": {
+                "a": "Are",
+                "b": "Is",
+                "c": "Am"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "My name ___ Ali.",
+            "options": {
+                "a": "are",
+                "b": "am",
+                "c": "is"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The weather ___ nice.",
+            "options": {
+                "a": "is",
+                "b": "are",
+                "c": "am"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "We ___ not late.",
+            "options": {
+                "a": "is",
+                "b": "am",
+                "c": "are"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "He ___ very kind.",
+            "options": {
+                "a": "is",
+                "b": "am",
+                "c": "are"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "It ___ cold today.",
+            "options": {
+                "a": "are",
+                "b": "is",
+                "c": "am"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "I ___ happy to be here.",
+            "options": {
+                "a": "am",
+                "b": "is",
+                "c": "are"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She ___ a doctor.",
+            "options": {
+                "a": "am",
+                "b": "is",
+                "c": "are"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "They ___ at home.",
+            "options": {
+                "a": "are",
+                "b": "am",
+                "c": "is"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "___ he your brother?",
+            "options": {
+                "a": "Am",
+                "b": "Is",
+                "c": "Are"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "___ I late?",
+            "options": {
+                "a": "Am",
+                "b": "Is",
+                "c": "Are"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Lesson 2: Subject Pronouns. Questions about I, you, he, she, it, we, they.",
+            "options": {},
+            "answer": "",
+            "is_lesson_intro": true,
+            "lesson_name": "Subject Pronouns"
+        },
+        {
+            "question": "___ am from Egypt.",
+            "options": {
+                "a": "I",
+                "b": "He",
+                "c": "She"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Ali is here. ___ is early.",
+            "options": {
+                "a": "She",
+                "b": "He",
+                "c": "It"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Sara is my sister. ___ is a student.",
+            "options": {
+                "a": "He",
+                "b": "It",
+                "c": "She"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Lesson 3: Articles. Questions about a and an.",
+            "options": {},
+            "answer": "",
+            "is_lesson_intro": true,
+            "lesson_name": "Articles"
+        },
+        {
+            "question": "I have ___ pen.",
+            "options": {
+                "a": "an",
+                "b": "a",
+                "c": "the"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She is ___ engineer.",
+            "options": {
+                "a": "a",
+                "b": "an",
+                "c": "the"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "He eats ___ apple.",
+            "options": {
+                "a": "a",
+                "b": "an",
+                "c": "the"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Lesson 4: Simple Present. Questions about present simple tense.",
+            "options": {},
+            "answer": "",
+            "is_lesson_intro": true,
+            "lesson_name": "Simple Present"
+        },
+        {
+            "question": "I ___ football every day.",
+            "options": {
+                "a": "play",
+                "b": "plays",
+                "c": "played"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She ___ coffee in the morning.",
+            "options": {
+                "a": "drink",
+                "b": "drinks",
+                "c": "drank"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "They ___ to school by bus.",
+            "options": {
+                "a": "goes",
+                "b": "go",
+                "c": "went"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Lesson 5: Basic Vocabulary. Questions about everyday words.",
+            "options": {},
+            "answer": "",
+            "is_lesson_intro": true,
+            "lesson_name": "Basic Vocabulary"
+        },
+        {
+            "question": "A teacher works in a ___.",
+            "options": {
+                "a": "hospital",
+                "b": "school",
+                "c": "shop"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Breakfast is in the ___.",
+            "options": {
+                "a": "morning",
+                "b": "night",
+                "c": "evening"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A doctor helps ___.",
+            "options": {
+                "a": "cars",
+                "b": "people",
+                "c": "food"
+            },
+            "answer": "b"
+        }
+    ],
+    "intermediate": [
+        {
+            "question": "Section 1: Past Simple and Present Continuous. Choose the correct verb form.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Past Simple and Present Continuous"
+        },
+        {
+            "question": "I __________ to school yesterday.",
+            "options": {
+                "a": "go",
+                "b": "went",
+                "c": "going"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She __________ a book right now.",
+            "options": {
+                "a": "is reading",
+                "b": "read",
+                "c": "reads"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "We __________ TV last night.",
+            "options": {
+                "a": "watched",
+                "b": "watch",
+                "c": "watching"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "They __________ football at the moment.",
+            "options": {
+                "a": "are playing",
+                "b": "played",
+                "c": "play"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He __________ his homework yesterday.",
+            "options": {
+                "a": "finished",
+                "b": "finishes",
+                "c": "finish"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I __________ breakfast today.",
+            "options": {
+                "a": "haven't eaten",
+                "b": "didn't eat",
+                "c": "not eat"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What __________ you __________ now?",
+            "options": {
+                "a": "are / doing",
+                "b": "do / do",
+                "c": "did / do"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She __________ dinner when I called her.",
+            "options": {
+                "a": "was cooking",
+                "b": "cooked",
+                "c": "cooks"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "They __________ London last summer.",
+            "options": {
+                "a": "visited",
+                "b": "visit",
+                "c": "visiting"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "We __________ English at the moment.",
+            "options": {
+                "a": "are studying",
+                "b": "studied",
+                "c": "study"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 2: Comparatives and Prepositions. Choose the correct comparative form or preposition.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Comparatives and Prepositions"
+        },
+        {
+            "question": "My house is __________ than yours.",
+            "options": {
+                "a": "big",
+                "b": "bigger",
+                "c": "biggest"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "This restaurant is __________ than the one near my school.",
+            "options": {
+                "a": "expensive",
+                "b": "more expensive",
+                "c": "most expensive"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Today is __________ than yesterday.",
+            "options": {
+                "a": "colder",
+                "b": "cold",
+                "c": "more cold"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 3: Vocabulary. Daily Routine, Travel, Food, and Feelings.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Vocabulary"
+        },
+        {
+            "question": "I usually __________ breakfast at 7 a.m.",
+            "options": {
+                "a": "have",
+                "b": "has",
+                "c": "having"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He always __________ to school by bus.",
+            "options": {
+                "a": "go",
+                "b": "goes",
+                "c": "going"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She __________ lunch at noon every day.",
+            "options": {
+                "a": "has",
+                "b": "have",
+                "c": "had"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 4: Question Forms. Choose the correct question structure.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Question Forms"
+        },
+        {
+            "question": "__________ you __________ to school yesterday?",
+            "options": {
+                "a": "Did / go",
+                "b": "Do / go",
+                "c": "Are / going"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What __________ she __________ now?",
+            "options": {
+                "a": "is / doing",
+                "b": "does / do",
+                "c": "did / do"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Where __________ they __________ last summer?",
+            "options": {
+                "a": "did / travel",
+                "b": "do / travel",
+                "c": "are / travelling"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 5: Reading Comprehension. Listen to the texts and answer the questions.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Reading Comprehension"
+        },
+        {
+            "question": "Reading Text 1: Ali usually wakes up at 7 a.m. He has breakfast at 7:30. After that, he goes to school by bus. At school, he studies English, Math, and Science. After school, he goes home and does his homework. At the moment, Ali is reading a book.",
+            "options": {},
+            "answer": "",
+            "is_reading_text": true
+        },
+        {
+            "question": "What time does Ali wake up?",
+            "options": {
+                "a": "7 a.m.",
+                "b": "8 a.m.",
+                "c": "6 a.m."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What does he eat at 7:30?",
+            "options": {
+                "a": "lunch",
+                "b": "breakfast",
+                "c": "dinner"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "How does he go to school?",
+            "options": {
+                "a": "by car",
+                "b": "by bus",
+                "c": "by bike"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Reading Text 2: Yesterday, Sara went to the supermarket. She bought apples, bread, and milk. At the moment, she is cooking dinner for her family.",
+            "options": {},
+            "answer": "",
+            "is_reading_text": true
+        },
+        {
+            "question": "Where did Sara go yesterday?",
+            "options": {
+                "a": "the supermarket",
+                "b": "the park",
+                "c": "school"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What did she buy?",
+            "options": {
+                "a": "apples, bread, milk",
+                "b": "eggs, cheese",
+                "c": "fruits only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Is she shopping now?",
+            "options": {
+                "a": "Yes",
+                "b": "No",
+                "c": "Sometimes"
+            },
+            "answer": "b"
+        }
+    ],
+    "advanced": [
+        {
+            "question": "Section 1: Present Perfect. Focus on finished vs unfinished time, already, yet, just, for, since.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Present Perfect"
+        },
+        {
+            "question": "I ________ my homework already.",
+            "options": {
+                "a": "did",
+                "b": "have done",
+                "c": "am doing",
+                "d": "was done"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She ________ in this company for five years.",
+            "options": {
+                "a": "works",
+                "b": "has worked",
+                "c": "worked",
+                "d": "is working"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Have you finished your assignment ________?",
+            "options": {
+                "a": "already",
+                "b": "yet",
+                "c": "just",
+                "d": "still"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He hasn't called me ________.",
+            "options": {
+                "a": "already",
+                "b": "yet",
+                "c": "just",
+                "d": "still"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The students ________ their homework already.",
+            "options": {
+                "a": "did",
+                "b": "have done",
+                "c": "are doing",
+                "d": "was done"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "They have ________ arrived at the station.",
+            "options": {
+                "a": "just",
+                "b": "yet",
+                "c": "already",
+                "d": "still"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ________ visited Paris many times.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "am"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She ________ not completed the task yet.",
+            "options": {
+                "a": "has",
+                "b": "have",
+                "c": "had",
+                "d": "was"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "We ________ been friends for ten years.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "are"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He ________ finished his assignment before the deadline.",
+            "options": {
+                "a": "has",
+                "b": "had",
+                "c": "have",
+                "d": "is"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ________ lived in this city all my life.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "am"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She ________ written three novels so far.",
+            "options": {
+                "a": "have",
+                "b": "has",
+                "c": "had",
+                "d": "is"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "They ________ been very busy lately.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "are"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ________ not seen that movie yet.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "did"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "We ________ already eaten lunch.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "are"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He ________ been working here since January.",
+            "options": {
+                "a": "has",
+                "b": "had",
+                "c": "have",
+                "d": "is"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ________ just finished my homework.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "am"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Have you ________ met our new manager?",
+            "options": {
+                "a": "already",
+                "b": "yet",
+                "c": "just",
+                "d": "still"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She ________ been to the new exhibition.",
+            "options": {
+                "a": "has",
+                "b": "had",
+                "c": "have",
+                "d": "is"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "They ________ never visited that country before.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "has",
+                "d": "are"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 2: Passive Voice. Choose the correct passive form.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Passive Voice"
+        },
+        {
+            "question": "The report ________ by the manager yesterday.",
+            "options": {
+                "a": "wrote",
+                "b": "was written",
+                "c": "writes",
+                "d": "is writing"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "All the letters ________ before the meeting.",
+            "options": {
+                "a": "are sent",
+                "b": "sent",
+                "c": "send",
+                "d": "is sending"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The homework ________ by the students last night.",
+            "options": {
+                "a": "done",
+                "b": "was done",
+                "c": "did",
+                "d": "is done"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The new bridge ________ in 2020.",
+            "options": {
+                "a": "built",
+                "b": "was built",
+                "c": "is built",
+                "d": "builds"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The meeting ________ at 10 am every Monday.",
+            "options": {
+                "a": "held",
+                "b": "is held",
+                "c": "was held",
+                "d": "holds"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The results ________ by the teacher yesterday.",
+            "options": {
+                "a": "were checked",
+                "b": "check",
+                "c": "checks",
+                "d": "was checked"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The documents ________ before the deadline.",
+            "options": {
+                "a": "are signed",
+                "b": "signed",
+                "c": "is signed",
+                "d": "prepares"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The new system ________ by the engineers last week.",
+            "options": {
+                "a": "was installed",
+                "b": "installed",
+                "c": "is installed",
+                "d": "installs"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The emails ________ every morning.",
+            "options": {
+                "a": "are sent",
+                "b": "sent",
+                "c": "sends",
+                "d": "is sent"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The article ________ by a famous journalist.",
+            "options": {
+                "a": "was written",
+                "b": "wrote",
+                "c": "writes",
+                "d": "is writing"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The students' work ________ carefully checked.",
+            "options": {
+                "a": "is",
+                "b": "was",
+                "c": "are",
+                "d": "were"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The experiment ________ successfully.",
+            "options": {
+                "a": "was conducted",
+                "b": "conducted",
+                "c": "is conducted",
+                "d": "conducts"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The instructions ________ clearly explained.",
+            "options": {
+                "a": "are",
+                "b": "were",
+                "c": "is",
+                "d": "was"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The project ________ last year.",
+            "options": {
+                "a": "completed",
+                "b": "was completed",
+                "c": "is completed",
+                "d": "completes"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "All the files ________ before the manager arrives.",
+            "options": {
+                "a": "are prepared",
+                "b": "prepared",
+                "c": "is prepared",
+                "d": "prepares"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The museum ________ every day.",
+            "options": {
+                "a": "is visited",
+                "b": "visited",
+                "c": "visits",
+                "d": "was visited"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The test ________ by the teacher before students enter.",
+            "options": {
+                "a": "was corrected",
+                "b": "corrected",
+                "c": "is corrected",
+                "d": "corrects"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The reports ________ submitted on time.",
+            "options": {
+                "a": "are",
+                "b": "is",
+                "c": "were",
+                "d": "was"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The package ________ yesterday.",
+            "options": {
+                "a": "was delivered",
+                "b": "delivered",
+                "c": "is delivered",
+                "d": "delivers"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The seminar ________ in the main hall.",
+            "options": {
+                "a": "is held",
+                "b": "held",
+                "c": "was held",
+                "d": "holds"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 3: Conditionals Type 1 and Type 2. Choose the correct conditional form.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Conditionals"
+        },
+        {
+            "question": "If it ________ tomorrow, we will stay home.",
+            "options": {
+                "a": "rains",
+                "b": "rained",
+                "c": "will rain",
+                "d": "raining"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If I ________ enough money, I will buy a new laptop.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "will have",
+                "d": "has"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If she ________ now, she will catch the train.",
+            "options": {
+                "a": "leaves",
+                "b": "left",
+                "c": "will leave",
+                "d": "leaving"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If they ________ harder, they will pass the test.",
+            "options": {
+                "a": "study",
+                "b": "studied",
+                "c": "will study",
+                "d": "studying"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If you ________ early, you will see him.",
+            "options": {
+                "a": "come",
+                "b": "came",
+                "c": "will come",
+                "d": "comes"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If I ________ more time, I would travel the world.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "will have",
+                "d": "would have"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If she ________ taller, she would play basketball.",
+            "options": {
+                "a": "is",
+                "b": "were",
+                "c": "will be",
+                "d": "would be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If we ________ rich, we would buy a big house.",
+            "options": {
+                "a": "are",
+                "b": "were",
+                "c": "will be",
+                "d": "would be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If he ________ faster, he would have caught the bus.",
+            "options": {
+                "a": "runs",
+                "b": "ran",
+                "c": "will run",
+                "d": "running"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If I ________ you, I would apologize.",
+            "options": {
+                "a": "am",
+                "b": "were",
+                "c": "will be",
+                "d": "was"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If it ________ today, I will bring an umbrella.",
+            "options": {
+                "a": "rains",
+                "b": "rained",
+                "c": "will rain",
+                "d": "raining"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If they ________ now, they will be late.",
+            "options": {
+                "a": "leave",
+                "b": "left",
+                "c": "will leave",
+                "d": "leaves"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If I ________ taller, I could reach the shelf.",
+            "options": {
+                "a": "am",
+                "b": "were",
+                "c": "will be",
+                "d": "would be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If she ________ harder, she could improve her grades.",
+            "options": {
+                "a": "works",
+                "b": "worked",
+                "c": "will work",
+                "d": "working"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If we ________ more careful, we wouldn't have mistakes.",
+            "options": {
+                "a": "are",
+                "b": "were",
+                "c": "will be",
+                "d": "would be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If he ________ more polite, he would have more friends.",
+            "options": {
+                "a": "is",
+                "b": "were",
+                "c": "will be",
+                "d": "would be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If they ________ earlier, they wouldn't miss the train.",
+            "options": {
+                "a": "arrive",
+                "b": "arrived",
+                "c": "will arrive",
+                "d": "arriving"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If I ________ the answer, I would tell you.",
+            "options": {
+                "a": "know",
+                "b": "knew",
+                "c": "will know",
+                "d": "knows"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If she ________ the instructions carefully, she wouldn't make mistakes.",
+            "options": {
+                "a": "follows",
+                "b": "followed",
+                "c": "will follow",
+                "d": "following"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "If we ________ more organized, the project would be easier.",
+            "options": {
+                "a": "are",
+                "b": "were",
+                "c": "will be",
+                "d": "would be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Section 4: Relative Pronouns. Choose who, which, where, whose, or that.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Relative Pronouns"
+        },
+        {
+            "question": "The man ________ helped me is a doctor.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "when"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The book ________ I borrowed is very interesting.",
+            "options": {
+                "a": "which",
+                "b": "who",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The house ________ we visited was huge.",
+            "options": {
+                "a": "which",
+                "b": "who",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The teacher ________ teaches us English is kind.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The city ________ I was born is very small.",
+            "options": {
+                "a": "where",
+                "b": "who",
+                "c": "which",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I know a man ________ can speak five languages.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Technology ________ improves our lives is important.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The company ________ employs me is very large.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Education is something ________ everyone should have.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Work is a place ________ people spend many hours.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The student ________ won the scholarship is my friend.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The movie ________ we watched was amazing.",
+            "options": {
+                "a": "which",
+                "b": "who",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The teacher ________ helped me yesterday is very kind.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I visited the town ________ my grandmother lives.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "She likes books ________ explain abstract ideas clearly.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "This is the man ________ car was stolen last week.",
+            "options": {
+                "a": "who",
+                "b": "whose",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The teacher ________ class I attended was strict.",
+            "options": {
+                "a": "whose",
+                "b": "who",
+                "c": "which",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I know the person ________ can solve this problem.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "whose",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The school ________ I studied in was huge.",
+            "options": {
+                "a": "which",
+                "b": "where",
+                "c": "who",
+                "d": "that"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "This is the building ________ was destroyed in the fire.",
+            "options": {
+                "a": "which",
+                "b": "who",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 5: Vocabulary. Work, Education, Technology, and Abstract Ideas.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Vocabulary"
+        },
+        {
+            "question": "She received a ________ for her excellent performance.",
+            "options": {
+                "a": "reward",
+                "b": "punishment",
+                "c": "problem",
+                "d": "delay"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "This software will ________ your computer speed.",
+            "options": {
+                "a": "enhance",
+                "b": "decrease",
+                "c": "destroy",
+                "d": "ignore"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The new device will ________ communication easier.",
+            "options": {
+                "a": "make",
+                "b": "break",
+                "c": "stop",
+                "d": "reduce"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Critical thinking is a skill ________ all students should develop.",
+            "options": {
+                "a": "which",
+                "b": "who",
+                "c": "where",
+                "d": "that"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The manager gave a ________ speech about productivity.",
+            "options": {
+                "a": "motivating",
+                "b": "boring",
+                "c": "lazy",
+                "d": "careless"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Artificial intelligence is a branch of ________.",
+            "options": {
+                "a": "technology",
+                "b": "art",
+                "c": "history",
+                "d": "cooking"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work experience helps develop practical ________.",
+            "options": {
+                "a": "skills",
+                "b": "mistakes",
+                "c": "toys",
+                "d": "boredom"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Education opens doors to new ________.",
+            "options": {
+                "a": "opportunities",
+                "b": "problems",
+                "c": "mistakes",
+                "d": "delays"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The meeting was postponed due to ________ circumstances.",
+            "options": {
+                "a": "unexpected",
+                "b": "normal",
+                "c": "boring",
+                "d": "usual"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She solved the problem using a very ________ idea.",
+            "options": {
+                "a": "creative",
+                "b": "lazy",
+                "c": "boring",
+                "d": "usual"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He is responsible for managing ________.",
+            "options": {
+                "a": "projects",
+                "b": "mistakes",
+                "c": "boredom",
+                "d": "toys"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Learning new technology can ________ your career.",
+            "options": {
+                "a": "improve",
+                "b": "reduce",
+                "c": "stop",
+                "d": "ignore"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The teacher explained an ________ concept clearly.",
+            "options": {
+                "a": "abstract",
+                "b": "concrete",
+                "c": "easy",
+                "d": "usual"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Students need to develop problem-solving ________.",
+            "options": {
+                "a": "skills",
+                "b": "mistakes",
+                "c": "toys",
+                "d": "boredom"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She works in the field of ________ innovation.",
+            "options": {
+                "a": "technological",
+                "b": "art",
+                "c": "cooking",
+                "d": "history"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He gave a very ________ presentation about science.",
+            "options": {
+                "a": "informative",
+                "b": "boring",
+                "c": "lazy",
+                "d": "careless"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The company uses software to ________ efficiency.",
+            "options": {
+                "a": "increase",
+                "b": "reduce",
+                "c": "destroy",
+                "d": "ignore"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She showed great ________ in solving the problem.",
+            "options": {
+                "a": "creativity",
+                "b": "laziness",
+                "c": "boredom",
+                "d": "carelessness"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Technology ________ our lives in many ways.",
+            "options": {
+                "a": "improves",
+                "b": "destroys",
+                "c": "ignores",
+                "d": "reduces"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Education is the key to unlocking ________.",
+            "options": {
+                "a": "opportunities",
+                "b": "problems",
+                "c": "mistakes",
+                "d": "delays"
+            },
+            "answer": "a"
+        }
+    ],
+    "pro": [
+        {
+            "question": "Section 1: Mixed Tenses and Verb Forms. Choose the most natural and grammatically correct sentence.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Mixed Tenses and Verb Forms"
+        },
+        {
+            "question": "What sounds most natural?",
+            "options": {
+                "a": "I have been knowing him for years.",
+                "b": "I've known him for years.",
+                "c": "I know him since five years.",
+                "d": "I am knowing him for years."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "She will attends the meeting tomorrow.",
+                "b": "She will attend the meeting tomorrow.",
+                "c": "She attends will the meeting tomorrow.",
+                "d": "She attending the meeting tomorrow."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which is natural in a health context?",
+            "options": {
+                "a": "I am feeling better today.",
+                "b": "I feel more better today.",
+                "c": "I am felt better today.",
+                "d": "I have feel better today."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Pick the correct conditional sentence:",
+            "options": {
+                "a": "If it rains, we would cancel the picnic.",
+                "b": "If it rains, we cancel the picnic.",
+                "c": "If it rains, we will cancel the picnic.",
+                "d": "If it rained, we cancel the picnic."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which sentence is correct about technology?",
+            "options": {
+                "a": "He updates his software every week.",
+                "b": "He update his software every week.",
+                "c": "He updating his software every week.",
+                "d": "He has update his software every week."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech – choose correct:",
+            "options": {
+                "a": "She said she will come.",
+                "b": "She said she would come.",
+                "c": "She said she comes.",
+                "d": "She said she is coming."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which sounds natural in a work context?",
+            "options": {
+                "a": "I am responsible for managing the team.",
+                "b": "I responsible for managing the team.",
+                "c": "I responsible to manage the team.",
+                "d": "I am responsibility for managing the team."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence (daily life):",
+            "options": {
+                "a": "I forgot bring my keys.",
+                "b": "I forgot to bring my keys.",
+                "c": "I forget bringing my keys.",
+                "d": "I forgot bringing my keys."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Conditional usage:",
+            "options": {
+                "a": "If I were you, I will take a break.",
+                "b": "If I was you, I would take a break.",
+                "c": "If I were you, I would take a break.",
+                "d": "If I am you, I would take a break."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Modal usage (advice):",
+            "options": {
+                "a": "You should to drink more water.",
+                "b": "You should drink more water.",
+                "c": "You must drinking more water.",
+                "d": "You could to drink more water."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which sentence is correct (work)?",
+            "options": {
+                "a": "We have finished the project last week.",
+                "b": "We finished the project last week.",
+                "c": "We finish the project last week.",
+                "d": "We has finished the project last week."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the natural expression (health):",
+            "options": {
+                "a": "I need to see a doctor.",
+                "b": "I need see a doctor.",
+                "c": "I need seeing a doctor.",
+                "d": "I needing to see a doctor."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which sentence is correct (technology)?",
+            "options": {
+                "a": "The computer crashes every time I open the program.",
+                "b": "The computer crash every time I open the program.",
+                "c": "The computer crashed every time I open the program.",
+                "d": "The computer crashing every time I open the program."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "He said he is tired.",
+                "b": "He said he was tired.",
+                "c": "He said he has tired.",
+                "d": "He said he has been tired."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Conditional sentence:",
+            "options": {
+                "a": "If I have time, I would join you.",
+                "b": "If I had time, I would join you.",
+                "c": "If I have time, I will join you.",
+                "d": "If I had time, I will join you."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Pick the correct modal (possibility):",
+            "options": {
+                "a": "She might comes to the party.",
+                "b": "She might come to the party.",
+                "c": "She may coming to the party.",
+                "d": "She could comes to the party."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Natural expression (daily life):",
+            "options": {
+                "a": "Can you help me to carry this?",
+                "b": "Can you help me carry this?",
+                "c": "Can you helping me carry this?",
+                "d": "Can you helps me carry this."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose correct grammar (mixed tenses):",
+            "options": {
+                "a": "I was cooking when he called.",
+                "b": "I cooked when he called.",
+                "c": "I am cooking when he called.",
+                "d": "I cooking when he called."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work situation:",
+            "options": {
+                "a": "He is in charge of the finance department.",
+                "b": "He in charge of the finance department.",
+                "c": "He are in charge of the finance department.",
+                "d": "He has in charge of the finance department."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Correct sentence (health):",
+            "options": {
+                "a": "She has been feeling unwell since Monday.",
+                "b": "She feeling unwell since Monday.",
+                "c": "She felt unwell since Monday.",
+                "d": "She has feel unwell since Monday."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 2: Conditionals. Choose the correct conditional form for each context.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Conditionals"
+        },
+        {
+            "question": "Conditional sentence (advice):",
+            "options": {
+                "a": "If I were late, I would call you.",
+                "b": "If I was late, I will call you.",
+                "c": "If I am late, I would call you.",
+                "d": "If I were late, I will call you."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Natural usage (technology):",
+            "options": {
+                "a": "He is fixing the printer right now.",
+                "b": "He fixing the printer right now.",
+                "c": "He fix the printer right now.",
+                "d": "He has fix the printer right now."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose correct modal (necessity):",
+            "options": {
+                "a": "You must to submit the report by Friday.",
+                "b": "You must submit the report by Friday.",
+                "c": "You must submitting the report by Friday.",
+                "d": "You must submits the report by Friday."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Work context – correct sentence:",
+            "options": {
+                "a": "They discussed about the new strategy.",
+                "b": "They discussed the new strategy.",
+                "c": "They discuss the new strategy.",
+                "d": "They discussing the new strategy."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "She told me she is tired.",
+                "b": "She told me she was tired.",
+                "c": "She told me she has tired.",
+                "d": "She told me she had been tired."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Natural expression (daily life):",
+            "options": {
+                "a": "I can't wait to see you tomorrow.",
+                "b": "I can't wait seeing you tomorrow.",
+                "c": "I can't wait see you tomorrow.",
+                "d": "I can't wait saw you tomorrow."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional usage:",
+            "options": {
+                "a": "If I won the lottery, I buy a car.",
+                "b": "If I win the lottery, I would buy a car.",
+                "c": "If I won the lottery, I would buy a car.",
+                "d": "If I would win the lottery, I buy a car."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Mixed tenses:",
+            "options": {
+                "a": "By the time she arrived, we have left.",
+                "b": "By the time she arrived, we had left.",
+                "c": "By the time she arrived, we leave.",
+                "d": "By the time she arrived, we has left."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Modal usage (ability):",
+            "options": {
+                "a": "I can speak three languages.",
+                "b": "I may speak three languages.",
+                "c": "I could speaks three languages.",
+                "d": "I must speak three languages."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Technology context:",
+            "options": {
+                "a": "The app is not working properly.",
+                "b": "The app does not works properly.",
+                "c": "The app not working properly.",
+                "d": "The app not works properly."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Natural usage (health):",
+            "options": {
+                "a": "He should take some rest.",
+                "b": "He should takes some rest.",
+                "c": "He should taking some rest.",
+                "d": "He should to take some rest."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional sentence:",
+            "options": {
+                "a": "If you study hard, you will pass the exam.",
+                "b": "If you study hard, you would pass the exam.",
+                "c": "If you studied hard, you will pass the exam.",
+                "d": "If you study hard, you pass the exam."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Correct grammar (work):",
+            "options": {
+                "a": "I am leading the team for two years.",
+                "b": "I have been leading the team for two years.",
+                "c": "I leaded the team for two years.",
+                "d": "I leads the team for two years."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "He asked if I am ready.",
+                "b": "He asked if I was ready.",
+                "c": "He asked if I were ready.",
+                "d": "He asked if I be ready."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Daily life – natural sentence:",
+            "options": {
+                "a": "I need to buy some groceries.",
+                "b": "I need buying some groceries.",
+                "c": "I need buy some groceries.",
+                "d": "I needing to buy some groceries."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (health):",
+            "options": {
+                "a": "I had already eaten when he arrived.",
+                "b": "I already ate when he arrived.",
+                "c": "I have eaten when he arrived.",
+                "d": "I eating when he arrived."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – modal (permission):",
+            "options": {
+                "a": "You may leave the office now.",
+                "b": "You can leaves the office now.",
+                "c": "You could leave the office now.",
+                "d": "You must leaving the office now."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional sentence:",
+            "options": {
+                "a": "If she had studied, she would have passed.",
+                "b": "If she had studied, she would pass.",
+                "c": "If she studied, she would have passed.",
+                "d": "If she studies, she would have passed."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Technology usage:",
+            "options": {
+                "a": "The website loads very slowly.",
+                "b": "The website load very slowly.",
+                "c": "The website is load very slowly.",
+                "d": "The website has loaded very slowly."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Correct natural sentence:",
+            "options": {
+                "a": "I am going to the gym every day.",
+                "b": "I go to the gym every day.",
+                "c": "I am go to the gym every day.",
+                "d": "I goes to the gym every day."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Section 3: Reported Speech and Modals. Choose the correct form for reported speech and modal verbs.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Reported Speech and Modals"
+        },
+        {
+            "question": "Mixed tenses (work):",
+            "options": {
+                "a": "By next week, I will finished the report.",
+                "b": "By next week, I will have finished the report.",
+                "c": "By next week, I finish the report.",
+                "d": "By next week, I am finishing the report."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Natural expression (daily life):",
+            "options": {
+                "a": "I have to pick up my kids from school.",
+                "b": "I have pick up my kids from school.",
+                "c": "I has to pick up my kids from school.",
+                "d": "I having to pick up my kids from school."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional sentence:",
+            "options": {
+                "a": "If he trains harder, he would win the competition.",
+                "b": "If he trains harder, he will win the competition.",
+                "c": "If he trained harder, he will win the competition.",
+                "d": "If he will train harder, he would win the competition."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Modal usage (necessity – health):",
+            "options": {
+                "a": "You must to take your medicine on time.",
+                "b": "You must take your medicine on time.",
+                "c": "You must taking your medicine on time.",
+                "d": "You must took your medicine on time."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "She said she can solve the problem.",
+                "b": "She said she could solve the problem.",
+                "c": "She said she may solve the problem.",
+                "d": "She said she will solves the problem."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct sentence (technology):",
+            "options": {
+                "a": "The printer is out of order.",
+                "b": "The printer out of order.",
+                "c": "The printer are out of order.",
+                "d": "The printer is out of orders."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – natural sentence:",
+            "options": {
+                "a": "I am attending a conference next month.",
+                "b": "I attending a conference next month.",
+                "c": "I will attends a conference next month.",
+                "d": "I attend a conference next month."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional usage (advice):",
+            "options": {
+                "a": "If I were you, I would take a day off.",
+                "b": "If I were you, I will take a day off.",
+                "c": "If I am you, I would take a day off.",
+                "d": "If I was you, I take a day off."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (possibility):",
+            "options": {
+                "a": "She might be late for the meeting.",
+                "b": "She might being late for the meeting.",
+                "c": "She might be arrives late for the meeting.",
+                "d": "She might arrives late for the meeting."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Daily life – natural expression:",
+            "options": {
+                "a": "Could you pass me the salt, please?",
+                "b": "Could you passes me the salt, please?",
+                "c": "Could you passing me the salt, please?",
+                "d": "Could you pass me the salts, please?"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (health):",
+            "options": {
+                "a": "I have been feeling tired all week.",
+                "b": "I feel tired all week.",
+                "c": "I was feeling tired all week.",
+                "d": "I had feel tired all week."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "He asked if I had finished my homework.",
+                "b": "He asked if I has finished my homework.",
+                "c": "He asked if I finished my homework.",
+                "d": "He asked if I have finished my homework."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – correct sentence:",
+            "options": {
+                "a": "The team is preparing a presentation for tomorrow.",
+                "b": "The team preparing a presentation for tomorrow.",
+                "c": "The team prepares a presentation for tomorrow.",
+                "d": "The team has prepares a presentation for tomorrow."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional sentence:",
+            "options": {
+                "a": "If we hurry, we will catch the train.",
+                "b": "If we hurry, we would catch the train.",
+                "c": "If we hurried, we will catch the train.",
+                "d": "If we hurry, we catch the train."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (permission):",
+            "options": {
+                "a": "You may enter the room now.",
+                "b": "You might enter the room now.",
+                "c": "You can enters the room now.",
+                "d": "You must entering the room now."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Technology – natural expression:",
+            "options": {
+                "a": "I need to install the latest update.",
+                "b": "I need installing the latest update.",
+                "c": "I need install the latest update.",
+                "d": "I needing to install the latest update."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – grammar in context:",
+            "options": {
+                "a": "She has managed the project successfully.",
+                "b": "She have managed the project successfully.",
+                "c": "She managed the project successfully.",
+                "d": "She is managed the project successfully."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Daily life – natural expression:",
+            "options": {
+                "a": "I'm looking forward to meeting you.",
+                "b": "I look forward meeting you.",
+                "c": "I'm looking forward meeting you.",
+                "d": "I look forward to meet you."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (health):",
+            "options": {
+                "a": "By the time the doctor arrived, I had already left.",
+                "b": "By the time the doctor arrived, I already left.",
+                "c": "By the time the doctor arrived, I have left.",
+                "d": "By the time the doctor arrived, I leave."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "She said that she had seen the movie.",
+                "b": "She said that she has seen the movie.",
+                "c": "She said that she saw the movie.",
+                "d": "She said that she sees the movie."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 4: Natural Expressions in Context. Choose the most natural sentence for work, health, technology, and daily life.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Natural Expressions in Context"
+        },
+        {
+            "question": "Conditional sentence:",
+            "options": {
+                "a": "If it snows tomorrow, we will stay home.",
+                "b": "If it snows tomorrow, we would stay home.",
+                "c": "If it snowed tomorrow, we will stay home.",
+                "d": "If it snow tomorrow, we would stay home."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (advice – work):",
+            "options": {
+                "a": "You should complete the report before Friday.",
+                "b": "You should completes the report before Friday.",
+                "c": "You should completing the report before Friday.",
+                "d": "You should to complete the report before Friday."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (technology):",
+            "options": {
+                "a": "I have been using this app for months.",
+                "b": "I am using this app for months.",
+                "c": "I use this app for months.",
+                "d": "I using this app for months."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "He said that he has been busy.",
+                "b": "He said that he had been busy.",
+                "c": "He said that he was busy.",
+                "d": "He said that he is busy."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Daily life – natural expression:",
+            "options": {
+                "a": "I need to recharge my phone.",
+                "b": "I need recharge my phone.",
+                "c": "I need to recharging my phone.",
+                "d": "I need recharged my phone."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional sentence (regret):",
+            "options": {
+                "a": "If I had studied harder, I would have passed the test.",
+                "b": "If I had studied harder, I would pass the test.",
+                "c": "If I studied harder, I would have passed the test.",
+                "d": "If I have studied harder, I would have passed the test."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (possibility):",
+            "options": {
+                "a": "They could arrive late due to traffic.",
+                "b": "They could arrives late due to traffic.",
+                "c": "They could arriving late due to traffic.",
+                "d": "They could arrived late due to traffic."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – natural expression:",
+            "options": {
+                "a": "I'm responsible for coordinating the project.",
+                "b": "I responsible for coordinating the project.",
+                "c": "I am responsibility for coordinating the project.",
+                "d": "I coordinating the project."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (health):",
+            "options": {
+                "a": "I had been waiting for an hour before the doctor arrived.",
+                "b": "I was waiting for an hour before the doctor arrived.",
+                "c": "I have been waiting for an hour before the doctor arrived.",
+                "d": "I waited for an hour before the doctor arrived."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "She told me she is going to the market.",
+                "b": "She told me she was going to the market.",
+                "c": "She told me she goes to the market.",
+                "d": "She told me she has gone to the market."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Conditional sentence (advice – daily life):",
+            "options": {
+                "a": "If I were you, I would speak to him.",
+                "b": "If I was you, I would speak to him.",
+                "c": "If I am you, I would speak to him.",
+                "d": "If I were you, I will speak to him."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (necessity – technology):",
+            "options": {
+                "a": "You must update your software regularly.",
+                "b": "You must updates your software regularly.",
+                "c": "You must updating your software regularly.",
+                "d": "You must updated your software regularly."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – correct grammar:",
+            "options": {
+                "a": "The manager has approved the new plan.",
+                "b": "The manager have approved the new plan.",
+                "c": "The manager approves the new plan.",
+                "d": "The manager approving the new plan."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Daily life – natural sentence:",
+            "options": {
+                "a": "I'm looking forward to my vacation.",
+                "b": "I look forward my vacation.",
+                "c": "I'm looking forward my vacation.",
+                "d": "I look forward to my vacationing."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (technology):",
+            "options": {
+                "a": "By the time I restarted the computer, it had crashed.",
+                "b": "By the time I restarted the computer, it crashed.",
+                "c": "By the time I restarted the computer, it has crashed.",
+                "d": "By the time I restarted the computer, it crashes."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "He said that he has completed the task.",
+                "b": "He said that he had completed the task.",
+                "c": "He said that he completed the task.",
+                "d": "He said that he completes the task."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Conditional sentence (work):",
+            "options": {
+                "a": "If we follow the instructions, the machine will work properly.",
+                "b": "If we follow the instructions, the machine would work properly.",
+                "c": "If we followed the instructions, the machine will work properly.",
+                "d": "If we follow the instructions, the machine works properly."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (ability):",
+            "options": {
+                "a": "I can solve this problem easily.",
+                "b": "I may solves this problem easily.",
+                "c": "I could solves this problem easily.",
+                "d": "I must solve this problem easily."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Daily life – natural sentence:",
+            "options": {
+                "a": "I need to make an appointment with the dentist.",
+                "b": "I need make an appointment with the dentist.",
+                "c": "I need making an appointment with the dentist.",
+                "d": "I needing to make an appointment with the dentist."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (health):",
+            "options": {
+                "a": "I had been exercising regularly before I got injured.",
+                "b": "I was exercising regularly before I got injured.",
+                "c": "I have been exercising regularly before I got injured.",
+                "d": "I exercised regularly before I got injured."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 5: Advanced Grammar in Context. Complex structures and nuanced usage.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Advanced Grammar in Context"
+        },
+        {
+            "question": "Conditional sentence (advice – work):",
+            "options": {
+                "a": "If I were in your position, I would negotiate the deal.",
+                "b": "If I was in your position, I would negotiate the deal.",
+                "c": "If I am in your position, I would negotiate the deal.",
+                "d": "If I were in your position, I will negotiate the deal."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (possibility – daily life):",
+            "options": {
+                "a": "She may be at the supermarket now.",
+                "b": "She may being at the supermarket now.",
+                "c": "She may goes to the supermarket now.",
+                "d": "She may gone to the supermarket now."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech (technology):",
+            "options": {
+                "a": "He said he is restarting the system.",
+                "b": "He said he was restarting the system.",
+                "c": "He said he restarts the system.",
+                "d": "He said he has restarted the system."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Mixed tenses (health):",
+            "options": {
+                "a": "I have been recovering from the flu for a week.",
+                "b": "I recovering from the flu for a week.",
+                "c": "I had recovering from the flu for a week.",
+                "d": "I recover from the flu for a week."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – natural sentence:",
+            "options": {
+                "a": "The team will meet to discuss the project.",
+                "b": "The team meets to discuss the project.",
+                "c": "The team will meets to discuss the project.",
+                "d": "The team meeting to discuss the project."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional sentence (regret):",
+            "options": {
+                "a": "If I had woken up earlier, I wouldn't have missed the bus.",
+                "b": "If I had woke up earlier, I wouldn't have missed the bus.",
+                "c": "If I woke up earlier, I wouldn't have missed the bus.",
+                "d": "If I have woken up earlier, I wouldn't have missed the bus."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (necessity – health):",
+            "options": {
+                "a": "You must drink more water.",
+                "b": "You must drinks more water.",
+                "c": "You must drinking more water.",
+                "d": "You must drank more water."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Daily life – natural expression:",
+            "options": {
+                "a": "I need to pick up my prescription from the pharmacy.",
+                "b": "I need pick up my prescription from the pharmacy.",
+                "c": "I need picking up my prescription from the pharmacy.",
+                "d": "I need to picking up my prescription from the pharmacy."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech:",
+            "options": {
+                "a": "She said she will call me later.",
+                "b": "She said she would call me later.",
+                "c": "She said she calls me later.",
+                "d": "She said she is calling me later."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Mixed tenses (technology):",
+            "options": {
+                "a": "By the time I logged in, the system had crashed.",
+                "b": "By the time I logged in, the system crashed.",
+                "c": "By the time I logged in, the system has crashed.",
+                "d": "By the time I logged in, the system crashes."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – correct grammar:",
+            "options": {
+                "a": "The manager has been reviewing the reports all morning.",
+                "b": "The manager has reviewing the reports all morning.",
+                "c": "The manager is reviewed the reports all morning.",
+                "d": "The manager reviewed the reports all morning."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conditional sentence (daily life):",
+            "options": {
+                "a": "If it rains, I would take an umbrella.",
+                "b": "If it rains, I will take an umbrella.",
+                "c": "If it rained, I will take an umbrella.",
+                "d": "If it will rain, I would take an umbrella."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Modal usage (ability):",
+            "options": {
+                "a": "I can finish this task by 5 PM.",
+                "b": "I could finishes this task by 5 PM.",
+                "c": "I can finishes this task by 5 PM.",
+                "d": "I must finish this task by 5 PM."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Daily life – natural expression:",
+            "options": {
+                "a": "Could you open the window, please?",
+                "b": "Could you opens the window, please?",
+                "c": "Could you opening the window, please?",
+                "d": "Could you openings the window, please?"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (health):",
+            "options": {
+                "a": "I had been exercising before I injured my ankle.",
+                "b": "I was exercising before I injured my ankle.",
+                "c": "I have been exercising before I injured my ankle.",
+                "d": "I exercised before I injured my ankle."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reported speech (work):",
+            "options": {
+                "a": "He told me he is handling the client meeting.",
+                "b": "He told me he was handling the client meeting.",
+                "c": "He told me he handles the client meeting.",
+                "d": "He told me he has handled the client meeting."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Conditional sentence (advice – technology):",
+            "options": {
+                "a": "If I were you, I would back up your files.",
+                "b": "If I was you, I would back up your files.",
+                "c": "If I am you, I would back up your files.",
+                "d": "If I were you, I will back up your files."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modal usage (possibility – health):",
+            "options": {
+                "a": "He might feel better after resting.",
+                "b": "He might feels better after resting.",
+                "c": "He might feeling better after resting.",
+                "d": "He might felt better after resting."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work context – natural sentence:",
+            "options": {
+                "a": "The team is preparing for the client presentation.",
+                "b": "The team prepares for the client presentation.",
+                "c": "The team is prepare for the client presentation.",
+                "d": "The team preparing for the client presentation."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mixed tenses (daily life):",
+            "options": {
+                "a": "By the time I arrived at the station, the train had already left.",
+                "b": "By the time I arrived at the station, the train already left.",
+                "c": "By the time I arrived at the station, the train has already left.",
+                "d": "By the time I arrived at the station, the train leaves."
+            },
+            "answer": "a"
+        }
+    ],
+    "master": [
+        {
+            "question": "Part 1: Advanced Grammar and Vocabulary. Focus on subjunctive mood, nuanced vocabulary, and precise usage.",
+            "options": {},
+            "answer": "",
+            "is_part_intro": true,
+            "part_name": "Advanced Grammar and Vocabulary"
+        },
+        {
+            "question": "The manager was praised for her ___ in handling the crisis.",
+            "options": {
+                "a": "negligence",
+                "b": "incompetence",
+                "c": "adeptness",
+                "d": "ignorance"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He suggested that she goes to the meeting.",
+                "b": "He suggested that she go to the meeting.",
+                "c": "He suggested that she going to the meeting.",
+                "d": "He suggested that she went to the meeting."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The policy was meant to ___ the economic gap.",
+            "options": {
+                "a": "ignore",
+                "b": "mitigate",
+                "c": "worsen",
+                "d": "widen"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's important that everyone submits their reports on time.",
+                "b": "It is important that everyone submit their reports on time.",
+                "c": "It is important that everyone submits their report on time.",
+                "d": "It is important everyone submits their reports on time."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to catalyst:",
+            "options": {
+                "a": "obstacle",
+                "b": "stimulus",
+                "c": "burden",
+                "d": "delay"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct use of sustain:",
+            "options": {
+                "a": "We need to sustain our energy for the whole trip.",
+                "b": "We need to sustain the trip for our energy.",
+                "c": "We sustain energy from the trip.",
+                "d": "We need to sustain to energy for the trip."
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best formal word: The CEO emphasized the ___ of teamwork.",
+            "options": {
+                "a": "irrelevance",
+                "b": "importance",
+                "c": "casualness",
+                "d": "neglect"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: The report was thorough but ___.",
+            "options": {
+                "a": "superficial",
+                "b": "concise",
+                "c": "lengthy",
+                "d": "verbose"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning: She has an innate ability to understand people.",
+            "options": {
+                "a": "learned",
+                "b": "acquired",
+                "c": "natural",
+                "d": "artificial"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "The teacher demanded that the students submits their essays.",
+                "b": "The teacher demanded that the students submit their essays.",
+                "c": "The teacher demanded that the students submitting their essays.",
+                "d": "The teacher demanded the students submits their essays."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best word: The diplomat was praised for his ___ during negotiations.",
+            "options": {
+                "a": "tact",
+                "b": "rudeness",
+                "c": "aggression",
+                "d": "hostility"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He insisted that she attends the conference.",
+                "b": "He insisted that she attend the conference.",
+                "c": "He insisted she attends the conference.",
+                "d": "He insisted she attending the conference."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to ubiquitous:",
+            "options": {
+                "a": "rare",
+                "b": "omnipresent",
+                "c": "absent",
+                "d": "unique"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best fit: The teacher's explanation was ___, making it easy to understand.",
+            "options": {
+                "a": "confusing",
+                "b": "lucid",
+                "c": "ambiguous",
+                "d": "obscure"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning-based: The new software improved workflow efficiency.",
+            "options": {
+                "a": "speed with errors",
+                "b": "ability to achieve maximum productivity",
+                "c": "wasting resources",
+                "d": "randomness"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "I recommend that he takes the course.",
+                "b": "I recommend that he take the course.",
+                "c": "I recommend he takes the course.",
+                "d": "I recommend that he taking the course."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best choice: The CEO's decision was ___ by many as bold.",
+            "options": {
+                "a": "regarded",
+                "b": "neglected",
+                "c": "ignored",
+                "d": "dismissed"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "She suggested that the report are revised immediately.",
+                "b": "She suggested that the report is revised immediately.",
+                "c": "She suggested that the report be revised immediately.",
+                "d": "She suggested the report revises immediately."
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Closest meaning to resilient:",
+            "options": {
+                "a": "fragile",
+                "b": "weak",
+                "c": "adaptable",
+                "d": "inflexible"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Best choice: The committee's decision will ___ the direction of the project.",
+            "options": {
+                "a": "influence",
+                "b": "ignore",
+                "c": "disrupt",
+                "d": "terminate"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's crucial that every member participates actively.",
+                "b": "It's crucial that every member participate actively.",
+                "c": "It's crucial that every member participates active.",
+                "d": "It's crucial every member participates actively."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Precise meaning: The minister's speech was ___ and left a strong impression.",
+            "options": {
+                "a": "eloquent",
+                "b": "silent",
+                "c": "dull",
+                "d": "ambiguous"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "She recommended that he studies harder.",
+                "b": "She recommended that he study harder.",
+                "c": "She recommended he studies harder.",
+                "d": "She recommended he studying harder."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: He is a ___ negotiator, careful not to offend anyone.",
+            "options": {
+                "a": "reckless",
+                "b": "diplomatic",
+                "c": "rude",
+                "d": "blunt"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best word: The new regulations aim to ___ environmental damage.",
+            "options": {
+                "a": "worsen",
+                "b": "prevent",
+                "c": "ignore",
+                "d": "accelerate"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Part 2: Subjunctive Mood and Nuanced Usage. Advanced sentence structures and subtle meaning distinctions.",
+            "options": {},
+            "answer": "",
+            "is_part_intro": true,
+            "part_name": "Subjunctive Mood and Nuanced Usage"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "The board insisted that the proposal is approved.",
+                "b": "The board insisted that the proposal be approved.",
+                "c": "The board insisted the proposal is approved.",
+                "d": "The board insisted the proposal approved."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning-based: The company thrives on innovation.",
+            "options": {
+                "a": "struggles",
+                "b": "prospers",
+                "c": "declines",
+                "d": "fails"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct: It is essential that the documents ___ signed before the deadline.",
+            "options": {
+                "a": "is",
+                "b": "be",
+                "c": "are",
+                "d": "was"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best vocabulary: The speaker was known for his ___ analysis of social issues.",
+            "options": {
+                "a": "incisive",
+                "b": "shallow",
+                "c": "weak",
+                "d": "careless"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "She insisted that he apologizes immediately.",
+                "b": "She insisted that he apologize immediately.",
+                "c": "She insisted he apologizes immediately.",
+                "d": "She insisted he apologizing immediately."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Word closest to ambiguous:",
+            "options": {
+                "a": "clear",
+                "b": "vague",
+                "c": "explicit",
+                "d": "precise"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He demanded that the report was completed.",
+                "b": "He demanded that the report be completed.",
+                "c": "He demanded the report completed.",
+                "d": "He demanded that the report completes."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: The outcome was ___, leaving everyone uncertain.",
+            "options": {
+                "a": "predictable",
+                "b": "equivocal",
+                "c": "clear",
+                "d": "obvious"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best word: Her ___ in the debate impressed the panel.",
+            "options": {
+                "a": "eloquence",
+                "b": "silence",
+                "c": "ignorance",
+                "d": "vagueness"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Meaning-based: The initiative aims to foster collaboration.",
+            "options": {
+                "a": "hinder",
+                "b": "encourage",
+                "c": "neglect",
+                "d": "stop"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's imperative that each member arrives on time.",
+                "b": "It's imperative that each member arrive on time.",
+                "c": "It's imperative that each member arrives timely.",
+                "d": "It's imperative each member arrives on time."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best vocabulary: The manager handled the situation with great ___.",
+            "options": {
+                "a": "professionalism",
+                "b": "carelessness",
+                "c": "negligence",
+                "d": "hostility"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "I propose that the meeting is rescheduled.",
+                "b": "I propose that the meeting be rescheduled.",
+                "c": "I propose the meeting is rescheduled.",
+                "d": "I propose the meeting reschedules."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to meticulous:",
+            "options": {
+                "a": "sloppy",
+                "b": "precise",
+                "c": "careless",
+                "d": "rough"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best choice: The new software will ___ productivity significantly.",
+            "options": {
+                "a": "hinder",
+                "b": "enhance",
+                "c": "reduce",
+                "d": "obstruct"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's essential that every employee adheres to policy.",
+                "b": "It's essential that every employee adhere to policy.",
+                "c": "It's essential every employee adheres policy.",
+                "d": "It's essential every employee adhere policies."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle meaning: The politician's speech was ___.",
+            "options": {
+                "a": "vague",
+                "b": "persuasive",
+                "c": "confusing",
+                "d": "dull"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best vocabulary: The organization encourages ___ among its members.",
+            "options": {
+                "a": "apathy",
+                "b": "negligence",
+                "c": "collaboration",
+                "d": "indifference"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He demanded that all files is submitted.",
+                "b": "He demanded that all files be submitted.",
+                "c": "He demanded all files is submitted.",
+                "d": "He demanded all files submits."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to alleviate:",
+            "options": {
+                "a": "worsen",
+                "b": "ease",
+                "c": "ignore",
+                "d": "intensify"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "The lawyer recommended that the contract is reviewed.",
+                "b": "The lawyer recommended that the contract be reviewed.",
+                "c": "The lawyer recommended the contract is reviewed.",
+                "d": "The lawyer recommended the contract reviews."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: Her approach was ___, avoiding unnecessary conflict.",
+            "options": {
+                "a": "diplomatic",
+                "b": "aggressive",
+                "c": "reckless",
+                "d": "blunt"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best word: The research findings are ___ and reliable.",
+            "options": {
+                "a": "valid",
+                "b": "weak",
+                "c": "incorrect",
+                "d": "irrelevant"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's important that he attends the training.",
+                "b": "It's important that he attend the training.",
+                "c": "It's important he attends the training.",
+                "d": "It's important he attending the training."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning-based: The CEO encouraged innovation to drive growth.",
+            "options": {
+                "a": "prevent",
+                "b": "promote",
+                "c": "ignore",
+                "d": "reduce"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Part 3: Precision and Contextual Mastery. Subtle distinctions in meaning and advanced contextual usage.",
+            "options": {},
+            "answer": "",
+            "is_part_intro": true,
+            "part_name": "Precision and Contextual Mastery"
+        },
+        {
+            "question": "Best vocabulary: The project was completed with ___ attention to detail.",
+            "options": {
+                "a": "meticulous",
+                "b": "careless",
+                "c": "weak",
+                "d": "sloppy"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He requested that the meeting is postponed.",
+                "b": "He requested that the meeting be postponed.",
+                "c": "He requested the meeting is postponed.",
+                "d": "He requested the meeting postponed."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle meaning: Her argument was ___ and convincing.",
+            "options": {
+                "a": "coherent",
+                "b": "confusing",
+                "c": "weak",
+                "d": "disorganized"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Closest meaning to scrutinize:",
+            "options": {
+                "a": "ignore",
+                "b": "examine closely",
+                "c": "neglect",
+                "d": "overlook"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "She demanded that he leaves immediately.",
+                "b": "She demanded that he leave immediately.",
+                "c": "She demanded he leaves immediately.",
+                "d": "She demanded he leaving immediately."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best word choice: The policy aims to ___ equality in the workplace.",
+            "options": {
+                "a": "promote",
+                "b": "ignore",
+                "c": "reduce",
+                "d": "prevent"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "The teacher insisted that the assignments is submitted.",
+                "b": "The teacher insisted that the assignments be submitted.",
+                "c": "The teacher insisted the assignments is submitted.",
+                "d": "The teacher insisted the assignments submits."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning: The company adapts quickly to changing markets.",
+            "options": {
+                "a": "resists",
+                "b": "adjusts",
+                "c": "ignores",
+                "d": "avoids"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: The results were ___, leaving room for interpretation.",
+            "options": {
+                "a": "ambiguous",
+                "b": "clear",
+                "c": "obvious",
+                "d": "precise"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best choice: The negotiations required ___ and patience.",
+            "options": {
+                "a": "recklessness",
+                "b": "diplomacy",
+                "c": "hostility",
+                "d": "negligence"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's vital that everyone arrives punctually.",
+                "b": "It's vital that everyone arrive punctually.",
+                "c": "It's vital everyone arrives punctually.",
+                "d": "It's vital everyone arrive punctually."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best vocabulary: The scientist provided ___ evidence to support the theory.",
+            "options": {
+                "a": "compelling",
+                "b": "weak",
+                "c": "invalid",
+                "d": "questionable"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He suggested that the report is revised immediately.",
+                "b": "He suggested that the report be revised immediately.",
+                "c": "He suggested the report is revised immediately.",
+                "d": "He suggested the report revises immediately."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to prolific:",
+            "options": {
+                "a": "unproductive",
+                "b": "highly productive",
+                "c": "lazy",
+                "d": "slow"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: The manager's approach was ___, avoiding mistakes.",
+            "options": {
+                "a": "prudent",
+                "b": "reckless",
+                "c": "careless",
+                "d": "hasty"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best choice: The new guidelines aim to ___ workplace safety.",
+            "options": {
+                "a": "improve",
+                "b": "ignore",
+                "c": "reduce",
+                "d": "hinder"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "She insisted that he arrives on time.",
+                "b": "She insisted that he arrive on time.",
+                "c": "She insisted he arrives on time.",
+                "d": "She insisted he arriving on time."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning-based: The company invests in talent development.",
+            "options": {
+                "a": "supports growth",
+                "b": "ignores employees",
+                "c": "discourages learning",
+                "d": "avoids training"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Subtle difference: The report was ___ and clear.",
+            "options": {
+                "a": "concise",
+                "b": "verbose",
+                "c": "confusing",
+                "d": "ambiguous"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best word: The diplomat handled the situation with ___.",
+            "options": {
+                "a": "tact",
+                "b": "aggression",
+                "c": "hostility",
+                "d": "rudeness"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's essential that he completes the forms.",
+                "b": "It's essential that he complete the forms.",
+                "c": "It's essential he completes the forms.",
+                "d": "It's essential he completing the forms."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Best vocabulary: The presentation was ___ and informative.",
+            "options": {
+                "a": "comprehensive",
+                "b": "incomplete",
+                "c": "vague",
+                "d": "partial"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He demanded that the reports is submitted.",
+                "b": "He demanded that the reports be submitted.",
+                "c": "He demanded the reports is submitted.",
+                "d": "He demanded the reports submits."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning: The manager delegated tasks efficiently.",
+            "options": {
+                "a": "assigned responsibly",
+                "b": "ignored responsibilities",
+                "c": "avoided tasks",
+                "d": "completed personally"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Subtle difference: Her feedback was ___, helping the team improve.",
+            "options": {
+                "a": "constructive",
+                "b": "destructive",
+                "c": "harsh",
+                "d": "careless"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Part 4: Strategic Language and Professional Mastery. Executive-level vocabulary and sophisticated grammatical structures.",
+            "options": {},
+            "answer": "",
+            "is_part_intro": true,
+            "part_name": "Strategic Language and Professional Mastery"
+        },
+        {
+            "question": "Best choice: The new policy aims to ___ collaboration among teams.",
+            "options": {
+                "a": "prevent",
+                "b": "encourage",
+                "c": "hinder",
+                "d": "ignore"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "The teacher demanded that the students is ready.",
+                "b": "The teacher demanded that the students be ready.",
+                "c": "The teacher demanded the students is ready.",
+                "d": "The teacher demanded the students ready."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to innovative:",
+            "options": {
+                "a": "outdated",
+                "b": "creative",
+                "c": "conventional",
+                "d": "common"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: The analysis was ___ and precise.",
+            "options": {
+                "a": "accurate",
+                "b": "misleading",
+                "c": "vague",
+                "d": "incorrect"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best vocabulary: The CEO made a ___ decision that influenced the company.",
+            "options": {
+                "a": "reckless",
+                "b": "strategic",
+                "c": "careless",
+                "d": "impulsive"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's crucial that he follows the instructions.",
+                "b": "It's crucial that he follow the instructions.",
+                "c": "It's crucial he follows the instructions.",
+                "d": "It's crucial he following the instructions."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning: The research paper was peer-reviewed.",
+            "options": {
+                "a": "evaluated by experts",
+                "b": "ignored",
+                "c": "published without check",
+                "d": "written casually"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best choice: The project manager demonstrated ___ leadership.",
+            "options": {
+                "a": "effective",
+                "b": "ineffective",
+                "c": "weak",
+                "d": "careless"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "She requested that the documents is signed.",
+                "b": "She requested that the documents be signed.",
+                "c": "She requested the documents is signed.",
+                "d": "She requested the documents signs."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to comprehensive:",
+            "options": {
+                "a": "incomplete",
+                "b": "thorough",
+                "c": "partial",
+                "d": "minimal"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: The instructions were ___ and easy to follow.",
+            "options": {
+                "a": "clear",
+                "b": "confusing",
+                "c": "vague",
+                "d": "misleading"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best vocabulary: The manager encouraged ___ thinking among employees.",
+            "options": {
+                "a": "critical",
+                "b": "careless",
+                "c": "shallow",
+                "d": "passive"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He insisted that the proposal is approved.",
+                "b": "He insisted that the proposal be approved.",
+                "c": "He insisted the proposal is approved.",
+                "d": "He insisted the proposal approves."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning-based: The organization promotes sustainability.",
+            "options": {
+                "a": "maintaining resources responsibly",
+                "b": "wasting resources",
+                "c": "neglecting environment",
+                "d": "ignoring development"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Subtle difference: Her presentation was ___, leaving a strong impression.",
+            "options": {
+                "a": "impressive",
+                "b": "weak",
+                "c": "dull",
+                "d": "mediocre"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best word: The company adopted a ___ strategy to increase market share.",
+            "options": {
+                "a": "proactive",
+                "b": "passive",
+                "c": "reactive",
+                "d": "indifferent"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's necessary that everyone submits their report.",
+                "b": "It's necessary that everyone submit their report.",
+                "c": "It's necessary everyone submits their report.",
+                "d": "It's necessary everyone submit their reports."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Closest meaning to versatile:",
+            "options": {
+                "a": "limited",
+                "b": "adaptable",
+                "c": "rigid",
+                "d": "inflexible"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Subtle difference: The results were ___ and consistent.",
+            "options": {
+                "a": "reliable",
+                "b": "uncertain",
+                "c": "erratic",
+                "d": "unstable"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best choice: The manager handled the complaint with ___.",
+            "options": {
+                "a": "professionalism",
+                "b": "negligence",
+                "c": "carelessness",
+                "d": "hostility"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "He demanded that the tasks is completed.",
+                "b": "He demanded that the tasks be completed.",
+                "c": "He demanded the tasks is completed.",
+                "d": "He demanded the tasks completes."
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Meaning: The company fosters innovation.",
+            "options": {
+                "a": "encourages creativity",
+                "b": "ignores ideas",
+                "c": "discourages change",
+                "d": "avoids improvement"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Subtle difference: Her feedback was ___, motivating the team.",
+            "options": {
+                "a": "constructive",
+                "b": "destructive",
+                "c": "harsh",
+                "d": "careless"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Best word: The CEO's decision was ___ and forward-thinking.",
+            "options": {
+                "a": "strategic",
+                "b": "reckless",
+                "c": "careless",
+                "d": "impulsive"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "It's crucial that the employees follows safety rules.",
+                "b": "It's crucial that the employees follow safety rules.",
+                "c": "It's crucial employees follows safety rules.",
+                "d": "It's crucial employees follow safety rules."
+            },
+            "answer": "b"
+        }
+    ],
+    "final": [
+        {
+            "question": "Section 1: Grammar Correction. Identify and correct the grammatical errors.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Grammar Correction"
+        },
+        {
+            "question": "Correct the sentence: She don't like pizza.",
+            "options": {
+                "a": "She don't like pizza",
+                "b": "She doesn't like pizza",
+                "c": "She not like pizza",
+                "d": "She no like pizza"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: I am boring in this class.",
+            "options": {
+                "a": "I am boring in this class",
+                "b": "I am bored in this class",
+                "c": "I boring in this class",
+                "d": "I bore in this class"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: Rarely he visits us.",
+            "options": {
+                "a": "Rarely he visits us",
+                "b": "Rarely does he visit us",
+                "c": "He rarely visits us",
+                "d": "He does rarely visit us"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: It's high time we leaves.",
+            "options": {
+                "a": "It's high time we leaves",
+                "b": "It's high time we left",
+                "c": "It's high time we leave",
+                "d": "It's high time we leaving"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: I didn't went to school.",
+            "options": {
+                "a": "I didn't went to school",
+                "b": "I didn't go to school",
+                "c": "I don't went to school",
+                "d": "I not went to school"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: She run every morning.",
+            "options": {
+                "a": "She run every morning",
+                "b": "She runs every morning",
+                "c": "She running every morning",
+                "d": "She ran every morning"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: Hardly I had finished when he arrived.",
+            "options": {
+                "a": "Hardly I had finished when he arrived",
+                "b": "Hardly had I finished when he arrived",
+                "c": "I had hardly finished when he arrived",
+                "d": "Hardly I finished when he arrived"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: She explained me the problem.",
+            "options": {
+                "a": "She explained me the problem",
+                "b": "She explained the problem to me",
+                "c": "She explained to me the problem",
+                "d": "She explains me the problem"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: I am agree with you.",
+            "options": {
+                "a": "I am agree with you",
+                "b": "I agree with you",
+                "c": "I am agreeing with you",
+                "d": "I agrees with you"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: There is many problems.",
+            "options": {
+                "a": "There is many problems",
+                "b": "There are many problems",
+                "c": "There is much problems",
+                "d": "There be many problems"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: I suggest that he goes home.",
+            "options": {
+                "a": "I suggest that he goes home",
+                "b": "I suggest that he go home",
+                "c": "I suggest he goes home",
+                "d": "I suggest him to go home"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: Despite of the rain, we played.",
+            "options": {
+                "a": "Despite of the rain, we played",
+                "b": "Despite the rain, we played",
+                "c": "Despite the raining, we played",
+                "d": "Despite rain, we have played"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: She can sings well.",
+            "options": {
+                "a": "She can sings well",
+                "b": "She can sing well",
+                "c": "She can sang well",
+                "d": "She can singing well"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: I am living here since 2010.",
+            "options": {
+                "a": "I am living here since 2010",
+                "b": "I have been living here since 2010",
+                "c": "I living here since 2010",
+                "d": "I lived here since 2010"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: I wish I have more time yesterday.",
+            "options": {
+                "a": "I wish I have more time yesterday",
+                "b": "I wish I had more time yesterday",
+                "c": "I wish I will have more time yesterday",
+                "d": "I wish I has more time yesterday"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Section 2: Verb Tenses and Forms. Choose the correct verb form for each context.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Verb Tenses and Forms"
+        },
+        {
+            "question": "I like ___ music.",
+            "options": {
+                "a": "listen",
+                "b": "listening",
+                "c": "listened",
+                "d": "listens"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "By the time he arrived, we ___ dinner.",
+            "options": {
+                "a": "finish",
+                "b": "had finished",
+                "c": "will finish",
+                "d": "finishes"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "I'm looking forward ___ you.",
+            "options": {
+                "a": "see",
+                "b": "seeing",
+                "c": "saw",
+                "d": "sees"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She ___ to school every day.",
+            "options": {
+                "a": "go",
+                "b": "goes",
+                "c": "going",
+                "d": "gone"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Had I known, I ___ helped.",
+            "options": {
+                "a": "will",
+                "b": "would",
+                "c": "can",
+                "d": "do"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "I ___ English for five years.",
+            "options": {
+                "a": "study",
+                "b": "studied",
+                "c": "have studied",
+                "d": "will study"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Unless you ___, you can't pass.",
+            "options": {
+                "a": "study",
+                "b": "studied",
+                "c": "will study",
+                "d": "studying"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "We ___ to the beach last summer.",
+            "options": {
+                "a": "go",
+                "b": "goes",
+                "c": "went",
+                "d": "going"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Only after he ___ did I understand the problem.",
+            "options": {
+                "a": "explained",
+                "b": "explains",
+                "c": "explain",
+                "d": "explaining"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ___ my keys yesterday.",
+            "options": {
+                "a": "lose",
+                "b": "lost",
+                "c": "losing",
+                "d": "losed"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "He ___ very well at the party last night.",
+            "options": {
+                "a": "dances",
+                "b": "danced",
+                "c": "dancing",
+                "d": "dance"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the past form of go?",
+            "options": {
+                "a": "goed",
+                "b": "gone",
+                "c": "went",
+                "d": "going"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "If I were you, I ___ take the job.",
+            "options": {
+                "a": "will",
+                "b": "would",
+                "c": "can",
+                "d": "must"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "I ___ never seen such a beautiful place.",
+            "options": {
+                "a": "have",
+                "b": "had",
+                "c": "will",
+                "d": "do"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He ___ his homework before dinner.",
+            "options": {
+                "a": "finish",
+                "b": "finishes",
+                "c": "had finished",
+                "d": "finishing"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Not only ___ smart, but also hardworking.",
+            "options": {
+                "a": "she is",
+                "b": "is she",
+                "c": "she",
+                "d": "she be"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "They suggested that he ___ earlier.",
+            "options": {
+                "a": "arrive",
+                "b": "arrives",
+                "c": "arrived",
+                "d": "arriving"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ___ a book yesterday.",
+            "options": {
+                "a": "reads",
+                "b": "read",
+                "c": "reading",
+                "d": "rode"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Had I ___, I would have told you.",
+            "options": {
+                "a": "known",
+                "b": "knew",
+                "c": "know",
+                "d": "knows"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "They ___ already eaten lunch.",
+            "options": {
+                "a": "have",
+                "b": "has",
+                "c": "had",
+                "d": "having"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He ___ to the market every Sunday.",
+            "options": {
+                "a": "goes",
+                "b": "go",
+                "c": "going",
+                "d": "gone"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He ___ happy yesterday.",
+            "options": {
+                "a": "is",
+                "b": "are",
+                "c": "was",
+                "d": "were"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "We ___ in the park now.",
+            "options": {
+                "a": "plays",
+                "b": "playing",
+                "c": "are playing",
+                "d": "played"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "He acts as though he ___ the rules.",
+            "options": {
+                "a": "knows",
+                "b": "know",
+                "c": "knew",
+                "d": "known"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He ___ to school every day.",
+            "options": {
+                "a": "go",
+                "b": "goes",
+                "c": "going",
+                "d": "gone"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "He speaks English ___ than I do.",
+            "options": {
+                "a": "more fluently",
+                "b": "fluenter",
+                "c": "fluent",
+                "d": "most fluently"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ___ TV when you called.",
+            "options": {
+                "a": "watch",
+                "b": "watched",
+                "c": "was watching",
+                "d": "watching"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "He ___ to school by bus every day.",
+            "options": {
+                "a": "goes",
+                "b": "go",
+                "c": "went",
+                "d": "going"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She spoke so ___ that everyone understood.",
+            "options": {
+                "a": "clearly",
+                "b": "clear",
+                "c": "clearily",
+                "d": "clearing"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Section 3: Vocabulary and Prepositions. Synonyms, antonyms, and correct preposition usage.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Vocabulary and Prepositions"
+        },
+        {
+            "question": "He is capable ___ solving this problem.",
+            "options": {
+                "a": "of",
+                "b": "for",
+                "c": "in",
+                "d": "to"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "There ___ many apples in the basket.",
+            "options": {
+                "a": "is",
+                "b": "are",
+                "c": "am",
+                "d": "be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Find synonym for meticulous:",
+            "options": {
+                "a": "careless",
+                "b": "careful",
+                "c": "lazy",
+                "d": "fast"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Find antonym of scarce:",
+            "options": {
+                "a": "rare",
+                "b": "abundant",
+                "c": "little",
+                "d": "insufficient"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose antonym of superficial:",
+            "options": {
+                "a": "shallow",
+                "b": "deep",
+                "c": "minor",
+                "d": "light"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Find synonym for ambiguous:",
+            "options": {
+                "a": "clear",
+                "b": "vague",
+                "c": "simple",
+                "d": "certain"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "They insisted ___ paying immediately.",
+            "options": {
+                "a": "on",
+                "b": "in",
+                "c": "at",
+                "d": "for"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I don't ___ coffee.",
+            "options": {
+                "a": "likes",
+                "b": "like",
+                "c": "liked",
+                "d": "liking"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the plural of child?",
+            "options": {
+                "a": "childs",
+                "b": "children",
+                "c": "childes",
+                "d": "childer"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "My father ___ a doctor.",
+            "options": {
+                "a": "is",
+                "b": "are",
+                "c": "am",
+                "d": "be"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "No sooner ___ he arrived than it started raining.",
+            "options": {
+                "a": "did",
+                "b": "was",
+                "c": "had",
+                "d": "does"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Find synonym for innovative:",
+            "options": {
+                "a": "creative",
+                "b": "old",
+                "c": "common",
+                "d": "standard"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "I ___ like ice cream.",
+            "options": {
+                "a": "not",
+                "b": "do",
+                "c": "does",
+                "d": "did"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "She has two ___.",
+            "options": {
+                "a": "dog",
+                "b": "dogs",
+                "c": "doges",
+                "d": "dogies"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Section 4: Reading Comprehension and Context. Understand the context and choose the best answer.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Reading and Context"
+        },
+        {
+            "question": "Despite the heavy rain, the festival continued as planned. Why were visitors surprised?",
+            "options": {
+                "a": "Festival cancelled",
+                "b": "It rained, yet festival continued",
+                "c": "Festival started late",
+                "d": "Visitors disliked festival"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The report, ___ was submitted yesterday, is excellent.",
+            "options": {
+                "a": "who",
+                "b": "which",
+                "c": "whose",
+                "d": "whom"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "He acts ___ he knows everything.",
+            "options": {
+                "a": "as if",
+                "b": "like",
+                "c": "such",
+                "d": "when"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If it rains tomorrow, we ___ stay home.",
+            "options": {
+                "a": "will",
+                "b": "would",
+                "c": "can",
+                "d": "must"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Where are you going?",
+            "options": {
+                "a": "Where you are going",
+                "b": "Where are you going",
+                "c": "You are going where",
+                "d": "Going where are you"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "He left early ___ he was tired.",
+            "options": {
+                "a": "because",
+                "b": "although",
+                "c": "and",
+                "d": "but"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "She had no money, ___ she couldn't buy food.",
+            "options": {
+                "a": "so",
+                "b": "and",
+                "c": "because",
+                "d": "although"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "He studied hard, ___ he passed the exam.",
+            "options": {
+                "a": "but",
+                "b": "so",
+                "c": "or",
+                "d": "because"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Section 5: Mixed Advanced Grammar. Complex structures and nuanced usage.",
+            "options": {},
+            "answer": "",
+            "is_section_intro": true,
+            "section_name": "Mixed Advanced Grammar"
+        },
+        {
+            "question": "Choose the best sentence:",
+            "options": {
+                "a": "I enjoy to play football",
+                "b": "I enjoy playing football",
+                "c": "I enjoy plays football",
+                "d": "I enjoy played football"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Select the correct question:",
+            "options": {
+                "a": "Where you are going",
+                "b": "Where are you going",
+                "c": "You are going where",
+                "d": "Going where are you"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which is correct?",
+            "options": {
+                "a": "She has two dog",
+                "b": "She has two dogs",
+                "c": "She have two dogs",
+                "d": "She haves two dogs"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which sentence is correct?",
+            "options": {
+                "a": "I am living here since 2010",
+                "b": "I have been living here since 2010",
+                "c": "I living here since 2010",
+                "d": "I lived here since 2010"
+            },
+            "answer": "b"
+        }
+    ],
+    "placement1": [
+        {
+            "question": "Reading Text: I'm Samy. I'm 15 years old and I'm from Cairo. I like playing tennis. I play with my friend Ali at the club on Mondays.",
+            "options": {},
+            "answer": "",
+            "is_reading": true
+        },
+        {
+            "question": "How old is Samy?",
+            "options": {
+                "a": "13",
+                "b": "14",
+                "c": "15",
+                "d": "16"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Where is Samy from?",
+            "options": {
+                "a": "Giza",
+                "b": "Cairo",
+                "c": "Alex",
+                "d": "Aswan"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What does Samy like playing?",
+            "options": {
+                "a": "Football",
+                "b": "Basketball",
+                "c": "Tennis",
+                "d": "Swimming"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Who plays with Samy?",
+            "options": {
+                "a": "His brother",
+                "b": "His cousin",
+                "c": "His friend Ali",
+                "d": "His teacher"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "When do they play tennis?",
+            "options": {
+                "a": "On Sundays",
+                "b": "On Fridays",
+                "c": "On Mondays",
+                "d": "Every day"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Where do they play?",
+            "options": {
+                "a": "At school",
+                "b": "At home",
+                "c": "At the club",
+                "d": "In the street"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "What is the relationship between Samy and Ali?",
+            "options": {
+                "a": "Brothers",
+                "b": "Cousins",
+                "c": "Friends",
+                "d": "Neighbors"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Dialogue: A: Hello, how are you? B: I'm fine, what is your name? A: My name is Ali, and you? B: My name is Ahmed. A: Do you have any friends? B: No, I don't.",
+            "options": {},
+            "answer": "",
+            "is_dialogue": true
+        },
+        {
+            "question": "What is Ali's first question?",
+            "options": {
+                "a": "What is your name",
+                "b": "How are you",
+                "c": "Do you have friends",
+                "d": "Where are you from"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is Ahmed's answer about friends?",
+            "options": {
+                "a": "Yes, I do",
+                "b": "I have many friends",
+                "c": "No, I don't",
+                "d": "I am fine"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "If Ahmed did have friends, how would he answer?",
+            "options": {
+                "a": "No, I don't",
+                "b": "Yes, I do",
+                "c": "My name is Ahmed",
+                "d": "I'm from Cairo"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct verb: Samy ___ tennis every Monday.",
+            "options": {
+                "a": "play",
+                "b": "plays",
+                "c": "playing",
+                "d": "played"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "He like playing tennis",
+                "b": "He likes playing tennis",
+                "c": "He liking playing tennis",
+                "d": "He liked play tennis"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct question: ___ you have any friends?",
+            "options": {
+                "a": "Are",
+                "b": "Do",
+                "c": "Does",
+                "d": "Did"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Choose the correct answer: Ahmed ___ have any friends.",
+            "options": {
+                "a": "do not",
+                "b": "does not",
+                "c": "is not",
+                "d": "are not"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The word friend means:",
+            "options": {
+                "a": "Teacher",
+                "b": "Brother",
+                "c": "Person you like and play with",
+                "d": "Neighbor"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "The opposite of fine is:",
+            "options": {
+                "a": "good",
+                "b": "happy",
+                "c": "tired",
+                "d": "bad"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Club is a place to:",
+            "options": {
+                "a": "sleep",
+                "b": "study",
+                "c": "play sports",
+                "d": "eat food"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Monday is a:",
+            "options": {
+                "a": "month",
+                "b": "season",
+                "c": "day",
+                "d": "year"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which sentence is correct in Present Simple? Ahmed ___ pizza every weekend.",
+            "options": {
+                "a": "eats",
+                "b": "eat",
+                "c": "is eating",
+                "d": "eating"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct negative: Nada ___ visits Italy, she doesn't like it at all.",
+            "options": {
+                "a": "always",
+                "b": "ever",
+                "c": "never",
+                "d": "sometimes"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which tense is used: Where ___ you been?",
+            "options": {
+                "a": "are",
+                "b": "have",
+                "c": "did",
+                "d": "do"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What is the correct past form? Wael was upset, because he ___ the game.",
+            "options": {
+                "a": "lose",
+                "b": "loses",
+                "c": "lost",
+                "d": "has lost"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Choose the correct negative in Simple Past: They ___ play football yesterday.",
+            "options": {
+                "a": "didn't",
+                "b": "don't",
+                "c": "doesn't",
+                "d": "hadn't"
+            },
+            "answer": "a"
+        }
+    ],
+    "placement2": [
+        {
+            "question": "Reading Section. Listen to the text carefully. Text: All of us have dreams. If you ask anyone, he will say that I have a dream that I try hard to achieve, but to achieve our goals we have to follow some qualities such as: honesty, curiosity, and determination.",
+            "options": {},
+            "answer": "",
+            "is_reading": true
+        },
+        {
+            "question": " No one has a dream.",
+            "options": {
+                "a": "True",
+                "b": "False"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Is it easy to achieve our goals?",
+            "options": {
+                "a": "Yes",
+                "b": "No",
+                "c": "Sometimes",
+                "d": "Not mentioned"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Carelessness is one of the qualities of achieving goals.",
+            "options": {
+                "a": "True",
+                "b": "False"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "We have to try hard to achieve our goals.",
+            "options": {
+                "a": "True",
+                "b": "False"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Determination helps us to achieve our goals.",
+            "options": {
+                "a": "True",
+                "b": "False"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "What is the meaning of the word curiosity?",
+            "options": {
+                "a": "Being honest",
+                "b": "Wanting to know and learn new things",
+                "c": "Being careful",
+                "d": "Being lazy"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which of these is NOT mentioned as a quality to achieve goals?",
+            "options": {
+                "a": "Honesty",
+                "b": "Curiosity",
+                "c": "Determination",
+                "d": "Laziness"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "According to the text, what must we do to achieve our dreams?",
+            "options": {
+                "a": "Wait for luck",
+                "b": "Try hard",
+                "c": "Ignore problems",
+                "d": "Ask someone else to do it"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "All of us have dreams means:",
+            "options": {
+                "a": "Only some people have dreams",
+                "b": "Everyone has dreams",
+                "c": "Dreams are impossible",
+                "d": "Dreams are not important"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Idioms Section. Listen to the idioms and their meanings. Idiom 1: Eat up. Meaning: To eat all of something. Idiom 2: Costs an arm and a leg. Meaning: Very expensive.",
+            "options": {},
+            "answer": "",
+            "is_idioms": true
+        },
+        {
+            "question": "Use the idiom costs an arm and a leg correctly.",
+            "options": {
+                "a": "My new phone costs an arm and a leg",
+                "b": "I ate up my lunch",
+                "c": "I play football every day",
+                "d": "I like sushi"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which sentence uses eat up correctly?",
+            "options": {
+                "a": "I ate up all my breakfast",
+                "b": "I ate up my homework",
+                "c": "I ate up my phone",
+                "d": "I ate up the movie"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Costs an arm and a leg means:",
+            "options": {
+                "a": "Very cheap",
+                "b": "Very expensive",
+                "c": "Very tasty",
+                "d": "Very small"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which is true about sushi?",
+            "options": {
+                "a": "It is from Japan",
+                "b": "It is a type of burger",
+                "c": "It is very cheap",
+                "d": "It is a drink"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "I don't know where he is, but I think he may be asleep",
+                "b": "I don't know where he is, but I think he may asleep",
+                "c": "I don't know where he is, but I think he may be sleeps",
+                "d": "I don't know where he is, but I think he may sleeping"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "If you heat water, it boils",
+                "b": "If you heat water, it boiled",
+                "c": "If you heat water, it boiling",
+                "d": "If you heat water, it boil"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "They haven't eaten their food yet",
+                "b": "They didn't eaten their food yet",
+                "c": "They not eaten their food yet",
+                "d": "They has eaten their food yet"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "I was playing a game when my mother called me",
+                "b": "I was play a game when my mother called me",
+                "c": "I played a game when my mother called me",
+                "d": "I am playing a game when my mother called me"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Complete the sentence: If it rains tomorrow, I blank at home.",
+            "options": {
+                "a": "stayed",
+                "b": "stay",
+                "c": "will stay",
+                "d": "stays"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "She has gone to school",
+                "b": "She have gone to school",
+                "c": "She going to school",
+                "d": "She goes to school yesterday"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "When I arrived, he was sleeping",
+                "b": "When I arrived, he sleeps",
+                "c": "When I arrived, he is sleeping",
+                "d": "When I arrived, he sleep"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Complete the sentence: If I find your bag, I blank you.",
+            "options": {
+                "a": "will call",
+                "b": "call",
+                "c": "called",
+                "d": "calls"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence.",
+            "options": {
+                "a": "We have been friends for five years",
+                "b": "We has been friends for five years",
+                "c": "We is friends for five years",
+                "d": "We been friends for five years"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct negative in Simple Past: They blank play football yesterday.",
+            "options": {
+                "a": "didn't",
+                "b": "don't",
+                "c": "doesn't",
+                "d": "hadn't"
+            },
+            "answer": "a"
+        }
+    ],
+    "placement3": [
+        {
+            "question": "Reading Comprehension Section. Listen to the text carefully. Text: Three centuries ago that was the Industrial Revolution. It changed the whole world. It was in the middle of the 17th century. The consequences of it was the industrial prosperity.",
+            "options": {},
+            "answer": "",
+            "is_reading": true
+        },
+        {
+            "question": "The Industrial Revolution happened:",
+            "options": {
+                "a": "Two centuries ago",
+                "b": "Three centuries ago",
+                "c": "Four centuries ago",
+                "d": "Five centuries ago"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The pronoun It in the text refers to:",
+            "options": {
+                "a": "Global warming",
+                "b": "The Industrial Revolution",
+                "c": "Industrial prosperity",
+                "d": "A world war"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "When did the Industrial Revolution occur?",
+            "options": {
+                "a": "Middle of the 16th century",
+                "b": "Middle of the 17th century",
+                "c": "End of the 18th century",
+                "d": "Beginning of the 19th century"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "What was one consequence of the Industrial Revolution?",
+            "options": {
+                "a": "World War 2",
+                "b": "Industrial prosperity",
+                "c": "Global warming",
+                "d": "The Renaissance"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The Industrial Revolution affected:",
+            "options": {
+                "a": "Half of the world",
+                "b": "Only Europe",
+                "c": "The whole world",
+                "d": "Only cities"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which phrase best explains industrial prosperity?",
+            "options": {
+                "a": "Development of farming tools",
+                "b": "Growth of wealth and factories",
+                "c": "War between countries",
+                "d": "Decline of cities"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The text suggests that the Industrial Revolution:",
+            "options": {
+                "a": "Started global warming",
+                "b": "Changed daily life and economy",
+                "c": "Was caused by a world war",
+                "d": "Happened last century"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "The sentence It changed the whole world means:",
+            "options": {
+                "a": "Only technology changed",
+                "b": "Social, economic, and technological changes occurred worldwide",
+                "c": "Only Europe was affected",
+                "d": "Nothing really changed"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which century is incorrectly mentioned in this sentence?",
+            "options": {
+                "a": "16th century",
+                "b": "17th century",
+                "c": "18th century",
+                "d": "19th century"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Why is industrial prosperity considered important?",
+            "options": {
+                "a": "It led to poverty",
+                "b": "It created wealth, jobs, and economic growth",
+                "c": "It caused wars",
+                "d": "It slowed down trade"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which word best describes someone who makes a quick, funny joke during a meeting?",
+            "options": {
+                "a": "Assertive",
+                "b": "Witty",
+                "c": "Prejudice",
+                "d": "Ideology"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Which word means confident in expressing opinions?",
+            "options": {
+                "a": "Assertive",
+                "b": "Witty",
+                "c": "Prejudice",
+                "d": "Prosperity"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which word means unfair judgment?",
+            "options": {
+                "a": "Prosperity",
+                "b": "Witty",
+                "c": "Prejudice",
+                "d": "Ideology"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Which word describes state of success and wealth?",
+            "options": {
+                "a": "Prosperity",
+                "b": "Assertive",
+                "c": "Ideology",
+                "d": "Witty"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Which word refers to a set of beliefs or ideas?",
+            "options": {
+                "a": "Ideology",
+                "b": "Prejudice",
+                "c": "Witty",
+                "d": "Assertive"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A person who always expresses their opinion strongly is:",
+            "options": {
+                "a": "Prejudice",
+                "b": "Assertive",
+                "c": "Witty",
+                "d": "Prosperous"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Someone who judges others unfairly is showing:",
+            "options": {
+                "a": "Witty behavior",
+                "b": "Prejudice",
+                "c": "Ideology",
+                "d": "Prosperity"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Industrial prosperity is closest in meaning to:",
+            "options": {
+                "a": "Economic success",
+                "b": "Fair judgment",
+                "c": "Clever thinking",
+                "d": "Personal opinion"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A clever and humorous person can be described as:",
+            "options": {
+                "a": "Prejudice",
+                "b": "Witty",
+                "c": "Assertive",
+                "d": "Ideology"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "A political system or philosophy is also called:",
+            "options": {
+                "a": "Ideology",
+                "b": "Prosperity",
+                "c": "Witty",
+                "d": "Assertive"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The problem blank solved.",
+            "options": {
+                "a": "is",
+                "b": "has been",
+                "c": "was",
+                "d": "will be"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "He told me that he blank volleyball the day before.",
+            "options": {
+                "a": "played",
+                "b": "had played",
+                "c": "is playing",
+                "d": "has played"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Look at the clouds! It blank to rain.",
+            "options": {
+                "a": "is going",
+                "b": "will go",
+                "c": "goes",
+                "d": "went"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If he blank enough money, he could buy a new car.",
+            "options": {
+                "a": "has",
+                "b": "had",
+                "c": "will have",
+                "d": "would have"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Correct the sentence: The consequences of it was the industrial prosperity.",
+            "options": {
+                "a": "The consequences of it were industrial prosperity",
+                "b": "The consequences of it is industrial prosperity",
+                "c": "The consequence of it were industrial prosperity",
+                "d": "The consequences of it will be industrial prosperity"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Correct the sentence: It changed the whole world in middle of 17th century.",
+            "options": {
+                "a": "It changed the whole world in the middle of the 17th century",
+                "b": "It changes the whole world in middle of the 17th century",
+                "c": "It changed whole world in middle 17th century",
+                "d": "It changed the world in middle of 17th century"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rewrite in passive: The workers are building a new bridge.",
+            "options": {
+                "a": "A new bridge is being built by the workers",
+                "b": "A new bridge built by the workers",
+                "c": "The workers built a new bridge",
+                "d": "The bridge is build by workers"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rewrite in passive: The teacher explains the lesson clearly.",
+            "options": {
+                "a": "The lesson is explained clearly by the teacher",
+                "b": "The lesson explains clearly by teacher",
+                "c": "Teacher explained the lesson clearly",
+                "d": "The lesson was explain by teacher"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rewrite in passive: The chef is preparing a special dish.",
+            "options": {
+                "a": "A special dish is being prepared by the chef",
+                "b": "A special dish prepares by the chef",
+                "c": "The chef prepared a special dish",
+                "d": "Special dish is prepare by chef"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Choose the correct sentence:",
+            "options": {
+                "a": "I have seen him yesterday",
+                "b": "I saw him yesterday",
+                "c": "I seen him yesterday",
+                "d": "I was see him yesterday"
+            },
+            "answer": "b"
+        }
+    ]
+}

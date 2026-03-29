@@ -1,0 +1,39 @@
+# Global code owners
+* @your-username
+
+# Backend code
+/src/main/java/ @your-username @backend-team
+/pom.xml @your-username @backend-team
+
+# Frontend code
+/src/main/resources/static/ @frontend-team
+/src/main/resources/templates/ @frontend-team
+
+# Documentation
+*.md @your-username @documentation-team
+/docs/ @your-username @documentation-team
+
+# Accessibility
+/src/main/java/com/blinders/blinders/entity/BlindAccessModule.java @accessibility-team
+/src/main/java/com/blinders/blinders/entity/AccessibilitySettings.java @accessibility-team
+/src/main/resources/static/css/ @accessibility-team @frontend-team
+
+# Database
+/database_setup.sql @backend-team @database-team
+/src/main/resources/application*.properties @backend-team @devops-team
+
+# Docker
+/Dockerfile @devops-team
+/docker-compose*.yml @devops-team
+
+# Testing
+/src/test/ @qa-team @backend-team
+/test/ @qa-team
+
+# Security
+/src/main/java/com/blinders/blinders/security/ @security-team @backend-team
+/SECURITY.md @security-team
+
+# CI/CD
+/.github/workflows/ @devops-team
+/.github/ @your-username @devops-team

@@ -1,0 +1,22 @@
+# Java / Spring Boot / Maven
+Back/target/
+Back/*.log
+Back/.idea/
+Back/*.iml
+Back/HELP.md
+
+# Python
+api/__pycache__/
+api/venv/
+api/env/
+api/.pytest_cache/
+api/*.log
+core/__pycache__/
+
+# Database
+database/*.sqlite3
+database/*.db
+
+# OS Files
+.DS_Store
+Thumbs.db
