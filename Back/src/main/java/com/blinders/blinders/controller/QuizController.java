@@ -57,7 +57,9 @@ public class QuizController {
             }
         }
 
-        int score = questions.isEmpty() ? 0 : (correct * 100) / questions.size();
+        // Fix logic flaw: Always grade out of 15 because the test hands out 15 random questions.
+        // If we divide by questions.size(), a user could submit 1 right answer, size=1, and score 100%!
+        int score = (correct * 100) / 15;
 
         LevelType assignedLevel;
         if (score >= 90) {
